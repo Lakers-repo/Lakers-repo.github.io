@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://haxi.org
+url: https://Lakers-repo.github.io
 date_format: "ordinal"
 title: Haxi's Blog
 subtitle: "筚路蓝缕 以启山林"
