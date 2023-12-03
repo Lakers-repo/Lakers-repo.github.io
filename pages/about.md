@@ -16,8 +16,6 @@ Where hope is coldest, and despair most fits.
 <br>
 **简单的编程爱好者**，只要我写的够快，bug就追不上我。
 
-![]({{ site.url }}/assets/img/wzx_head.jpg)
-
 ## 联系
 
 <ul>
