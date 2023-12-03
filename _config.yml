@@ -5,8 +5,8 @@ baseurl:
 url: https://Lakers-repo.github.io
 date_format: "ordinal"
 title: Haxi's Blog
-subtitle: "筚路蓝缕 以启山林"
-description: "学习是一种信仰"
+subtitle: "Stay focused,Stay hungry."
+description: "学习是一种态度"
 keywords: Lakers-repo, Lakers
 timezone: Asia/Shanghai
 encoding: "utf-8"
@@ -116,9 +116,9 @@ gitment:
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: haxi
-    repo: blog-comment
-    clientID: 95cb1d96a4661c62d023
-    clientSecret: 08cf28705716ee242e3de2559765c56da1150a81
+    repo:
+    clientID:
+    clientSecret:
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
