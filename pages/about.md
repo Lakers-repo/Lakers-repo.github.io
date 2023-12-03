@@ -7,16 +7,12 @@ menu: 关于
 permalink: /about/
 ---
 
-Oft expectation fails, and most oft there
-
-Where most it promises; and oft it hits
-
-Where hope is coldest, and despair most fits.
+Stay focused,Stay hungry.
 
 <br>
 **简单的编程爱好者**，只要我写的够快，bug就追不上我。
 
-## 联系
+## Contact
 
 <ul>
 {% for website in site.data.social %}
