@@ -115,7 +115,7 @@ gitment:
         client_secret:
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: wzx140
+    owner: haxi
     repo: blog-comment
     clientID: 95cb1d96a4661c62d023
     clientSecret: 08cf28705716ee242e3de2559765c56da1150a81
