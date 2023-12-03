@@ -2,9 +2,9 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://haxi.doc.com
+url: https://Lakers-repo.org
 date_format: "ordinal"
-title: WZX's Blog
+title: Haxi's Blog
 subtitle: "筚路蓝缕 以启山林"
 description: "学习是一种信仰"
 keywords: Lakers-repo, Lakers
